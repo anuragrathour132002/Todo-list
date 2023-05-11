@@ -1,5 +1,5 @@
 # Todo List | Node.js
-This is my first project to practice basic CRUD operations.
+
 
 ## Available Scripts:
 
